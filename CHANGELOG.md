@@ -6,3 +6,7 @@
 11-10-2026 11:48 - Added content to monitor-network.yaml file.
 11-10-2026 11:50 - Added new setting to monitor-CPU.yaml file.
 11-10-2026 12:11 - Added setting in app-config.yaml for monitoring feature.
+11-10-2026 12:04 - Added log directory and a logging.yaml file.
+11-10-2026 12:07 - New setting added to logging.yaml.
+11-10-2026 12:09 - Added setting in app-config.yaml for logging.
+11-10-2026 12:18 - Merged logging branch into monitoring branch, resolved conflicts.
