@@ -10,3 +10,4 @@
 11-10-2026 12:07 - New setting added to logging.yaml.
 11-10-2026 12:09 - Added setting in app-config.yaml for logging.
 11-10-2026 12:18 - Merged logging branch into monitoring branch, resolved conflicts.
+11/10/2026 12:38 - Created hotfix, realeased v1.1.0.
