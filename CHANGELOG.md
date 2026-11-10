@@ -5,3 +5,4 @@
 11-10-2026 11:46 - Added content to monitor-CPU.yaml file.
 11-10-2026 11:48 - Added content to monitor-network.yaml file.
 11-10-2026 11:50 - Added new setting to monitor-CPU.yaml file.
+11-10-2026 12:11 - Added setting in app-config.yaml for monitoring feature.
