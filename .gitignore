@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+vendor/
+
+# Build output
+dist/
+build/
+out/
+target/
+__pycache__/
+*.pyc
+*.class
+*.o
+*.so
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+npm-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Secrets & local config
+.env
+.env.local
+.env.*.local
+*.pem
+credentials.json   
