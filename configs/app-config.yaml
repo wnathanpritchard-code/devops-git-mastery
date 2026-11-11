@@ -1,4 +1,7 @@
 # This is only a test file.  I am not a programmer, but I am learning GIT for uploading my Terraform scripts.
+<<<<<<< HEAD
 # Setting for the monitoring feature.
 # This is the setting for logging.
+=======
+>>>>>>> parent of 8d425c2 (Added setting in app-config.yaml for monitoring feature.)
 # This is only a test.
